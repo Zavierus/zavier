@@ -1,6 +1,6 @@
 {
   "author": "Zavier",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "\u821E\u8005PVPACR",
   "supportedJobs": [
     {
@@ -13,5 +13,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "d9e915ade97aadca93c2700b6ab5c5012876229de2bc5e8110e5b421d6c82723"
+  "sha256": "da86563bbe97590e41e0509853a246f2265d5893846d3d2ed3f4f9ed3a96d076"
 }
