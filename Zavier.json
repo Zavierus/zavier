@@ -1,10 +1,14 @@
 {
   "author": "Zavier",
   "version": "1.0.4",
-  "description": "\u821E\u8005PVPACR",
+  "description": "\u821E\u8005 / \u6B66\u50E7 PvP ACR",
   "supportedJobs": [
     {
       "job": "DNC",
+      "contentScope": "PvP"
+    },
+    {
+      "job": "MNK",
       "contentScope": "PvP"
     }
   ],
@@ -13,5 +17,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "da86563bbe97590e41e0509853a246f2265d5893846d3d2ed3f4f9ed3a96d076"
+  "sha256": "472cc427584fed6a0a57239792e39614de3d3b5e8841d42db50f6097eab3f349"
 }
