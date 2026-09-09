@@ -1,6 +1,6 @@
 {
   "author": "Zavier",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "\u821E\u8005 / \u6B66\u50E7 PvP ACR",
   "supportedJobs": [
     {
@@ -17,5 +17,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "e6781c067c48245854f1c01c2c0c105d434a2744f87eb164cfe8d46c16962cfe"
+  "sha256": "265d1b1208684c1a17b33feeee4a740052334dda584ba868ab321f7460769aa6"
 }
