@@ -1,14 +1,10 @@
 {
   "author": "Zavier",
   "version": "1.0.6",
-  "description": "舞者 / 武僧 PvP ACR",
+  "description": "舞者PVPACR",
   "supportedJobs": [
     {
       "job": "DNC",
-      "contentScope": "PvP"
-    },
-    {
-      "job": "MNK",
       "contentScope": "PvP"
     }
   ],
@@ -17,5 +13,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "8b44d3f81e6e5b8c64d5545e29cf8f8a82e0ea74958e5f320f1b0775cc2a2a80"
+  "sha256": "d1c128ddba991e0dbb518a8831bf4c54ae2222e2ec58679b6401b6d1587e033c"
 }
