@@ -1,7 +1,7 @@
 {
   "author": "Zavier",
-  "version": "1.5.0",
-  "description": "舞者 / 武僧 / 钐镰客 / 绝枪 PvP ACR (v1.5)",
+  "version": "1.6.0",
+  "description": "舞者 / 武僧 / 钐镰客 PvP ACR (v1.6.0)",
   "supportedJobs": [
     {
       "job": "DNC",
@@ -14,10 +14,6 @@
     {
       "job": "RPR",
       "contentScope": "PvP"
-    },
-    {
-      "job": "GNB",
-      "contentScope": "PvP"
     }
   ],
   "apiVersion": 15,
@@ -25,5 +21,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "ed5b36edcfec08bedef14440028bef1c38fd886132363a17f3d4d47c2e2b4f8e"
+  "sha256": "b8d00d9d829006675d982bbf6b712beafe9764a2f81b4960c3a02b3838bae3d8"
 }
