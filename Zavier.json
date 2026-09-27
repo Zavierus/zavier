@@ -1,7 +1,7 @@
 {
   "author": "Zavier",
-  "version": "1.6.9",
-  "description": "舞者 / 武僧 / 钐镰客 PvP ACR (v1.6.9)",
+  "version": "1.7.0",
+  "description": "舞者 / 武僧 / 钐镰客 PvP ACR (v1.7.0)",
   "supportedJobs": [
     {
       "job": "DNC",
@@ -21,5 +21,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Zavierus/zavier/main/Zavier.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "5d4dae73fa15f5605c8ba7794bbc833046306465f234c2d1a40c42e5a9ac4d9b"
+  "sha256": "fd8f185eca6e1415732016d1138818a52a96a308b9d899b902f36b0880e3136c"
 }
